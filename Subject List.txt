@@ -1,12 +1,11 @@
 Subject List
 Computer
-1
-2
-
-3
-4
-5
-6
+1. EM
+2.TOC
+3.EDC
+4.ECT
+5.Maths
+6.OOP
 7
 8
 Internet 
