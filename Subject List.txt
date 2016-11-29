@@ -1,9 +1,8 @@
 Subject List
 Computer
-1
-2
-
-3
+1 basic electrical
+2c programming
+3maths
 4
 5
 6
