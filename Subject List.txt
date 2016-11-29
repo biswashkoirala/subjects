@@ -26,4 +26,11 @@ Electronics
 7
 8
 
-9
+Semester-1(Electronics)
+1.Engineering drawing
+2.C-programming
+3.Appied Mechanics
+4.Engineering Physics
+5.Engineering Mathmatics
+6.Basic Electrical Engineering
+
