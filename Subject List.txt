@@ -6,6 +6,12 @@ Computer
 3
 4
 5
+DC
+CG
+COA
+I-II
+English
+
 6
 7
 8
