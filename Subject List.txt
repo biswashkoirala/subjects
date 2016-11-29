@@ -1,22 +1,22 @@
 Subject List
 Computer
-1
-2
+1 physics 
+2 maths
 
-3
-4
+3 computer
+4 biology
 5
 6
 7
 8
 Internet 
  Information  System
-
+intel broadband
 
 
 
 Electronics
-1
+1 biot savarts 
 2
 
 3
