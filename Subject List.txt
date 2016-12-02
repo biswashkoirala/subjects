@@ -13,13 +13,12 @@ Computer
 
 
 Electronics
-1
-2
-
-3
-4
-5
-6
+1 c programming
+2 applied mechanics
+3 engineering drawing
+4 engineering mathematics
+5 engineerig physics
+6 basic electrical engineering
 7
 8
 
